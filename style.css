@@ -1,0 +1,40 @@
+h1 {
+    color: white;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: cadetblue;
+    justify-content: space-between;
+}
+
+.grid{
+    margin: 40px;
+    justify-content: space-evenly;
+}
+
+.item{
+    width: 350px;
+    height: 400px;
+}
+
+.footer{
+
+}
+
+.both{
+    display: flex;
+    margin: 40px;
+    flex-wrap: wrap;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background: #808080; 
+}
